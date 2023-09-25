@@ -1,0 +1,48 @@
+html {
+    background-color: #e4e9fd ;
+}
+
+
+.container {
+    background-color: rgb(53, 53, 53);
+    font-size: 2rem;
+}
+
+#heading {
+    background-color: #a683e3;
+    text-align: center;
+}
+
+.box {
+    max-width: 400px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.AddTaskContainer {
+    background-color: none;
+}
+
+.TaskWrite {
+    background-color: aqua;
+}
+
+#push{
+    background-color: gold;
+    border-radius: 95%;
+}
+
+#tasks{
+    padding-top: 10px;
+}
+
+#deleterIcon{
+    justify-content: right;
+}
+
+.delete{
+    background-color: azure;
+}
+
